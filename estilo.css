@@ -1,0 +1,416 @@
+* {
+	margin: 0;
+	padding:0 ;
+}
+body {
+	background:#F8F8FF;
+	font-family: "Maison Neue", Helvetica Neue, Helvetica, Arial, sans-serif;
+
+
+}
+/*cabeçalho*/
+#cabeçalho {
+	background: #1C1C1C	;
+	font-size: 20px;
+	padding: 40px 140px;
+	}
+#titulo {
+	color: #4682B4;
+	text-align: left;
+	margin-left: 50px;
+
+}
+.dev {
+	color: #B0C4DE;
+}
+#menu-cima {
+	float: right;
+
+	margin-right: 50px;	
+}
+a{
+	text-decoration: none;
+}
+#menu-cima a:link,a:visited{
+	color: #F8F8FF;
+	padding: 0 5px;
+	margin: 20px;
+
+}
+#menu-cima a:hover {
+	color: #708090;
+}
+/* fim do cabeçalho*/
+/*começo da principal*/
+#principal {
+	margin-left: 155px;
+	background: #fff;
+	width: 1130px;
+	}
+	/*Postagem1*/
+#postagem1 {
+	background: #fff;
+	color: 	#6495ED;
+	padding: 60px 20px;
+}
+
+.paragrafo1 {
+	font-size: 35px;
+	color: #4682B4;
+	padding-bottom: 10px;
+
+	}
+
+.paragrafo2 {
+	font-size: 28px;
+	padding: 10px 0px;
+}
+#email a:link, #email a:visited, #email a:hover {
+	color: gray;
+	text-decoration: underline;
+}
+/*Postagem2*/
+#postagem2 {
+	
+	padding: 60px 20px;
+}
+#paragrafo3 {
+	font-size: 30px;
+	color: #6495ED;
+}
+.img {
+	margin-left: 90px;
+	width: 82%;
+}
+#paragrafo4 {
+	font-size: 20px;
+	color: #4682B4;
+}
+#postagem3 {
+	padding: 40px 20px;
+	position: relative;
+	height: 150px;
+	
+
+}
+#happy {
+	font-size: 20px;
+	color: #6495ED;
+}
+.cliente {
+	padding: 20px 60px;
+	display: inline-block;
+	font-size: 30px;
+}
+.cliente a:link, .cliente a:visited {
+	color: #4682B4;
+}
+.cliente a:hover {
+	text-decoration: underline;
+	color: #708090;
+}
+#postagem4 {
+	
+	padding: 20px 20px;
+	position: relative;
+	font-size: 20px;
+	color: #6495ED;
+	position: relative;
+	margin-bottom: 20px;
+}
+.p1 {
+	width: 480px;
+	;
+	font-size: 1.3em;
+	color: #4682B4;
+
+	}
+.p2 {
+	width: 480px;
+	
+	font-size: 1.0em;
+	margin-bottom: 20px;
+	color: #4682B4;
+	position: relative;
+	left: 530px;
+	bottom: 120px;
+}
+h3{
+	text-decoration: none;
+}
+.p3 {
+	width: 480px;
+	font-size: 1.0em;
+	margin-bottom: 20px;
+	position: relative;
+	left: 530px;
+	bottom: 110px;
+	color: #4682B4;
+}
+.p4 {
+	width: 480px;
+	font-size: 1.0em;
+	margin-bottom: 20px;
+	position: relative;
+	left: 530px;
+	bottom: 100px;
+	color: #4682B4;
+}
+.p5 {
+	width: 480px;
+	font-size: 1.0em;
+	margin-bottom: 0;
+	position: relative;
+	left: 530px;
+	bottom: 90px;
+	color: #4682B4;
+}
+#postagem5 {
+	font-size: 20px;
+	color: #6495ED;
+	padding: 20px 20px;
+	
+}
+.f1 {
+	float:left top;
+	width: 498px;
+	height: 300px;
+	border: 10px solid white;
+}
+.f2 {
+	width: 498px;
+	height: 300px;
+	border: 10px solid white;
+}
+.f3 {
+	width: 498px;
+	height: 300px;
+	border: 10px solid white;
+}
+.f4 {
+	width: 498px;
+	height: 300px;
+	border: 10px solid white;
+}
+#postagem6 {
+	padding: 20px 20px;
+	font-size: 20px;
+	color: #6495ED;
+}
+.online {
+	padding: 40px 0px;
+	color: #6495ED;
+}
+.twitter {
+	padding: 15px 0px;
+	font-size: 27px;
+		color: #4682B4;
+
+}
+#contato2 {
+	
+	display: inline-block;
+	position: absolute;
+	top: 3290px;
+	right: 500px;
+}
+.contato {
+	padding: 15px 0px;
+	font-size: 24px;
+	color:black;	
+}
+.contato3 {
+	padding: 15px 0px;
+	font-size: 25px;
+	color: #708090;
+	
+}
+
+.twitter  a:link, .twitter a:visited {
+ color: #4682B4;
+}
+.twitter  a:hover {
+	color: #708090;
+	text-decoration: underline;
+}
+.contato3 a:link, .contato3 a:visited {
+	color: #708090;
+	text-decoration: none;
+}
+.contato3 a:hover {
+	text-decoration: underline;
+	color: #708090;
+}
+#postagem7 {
+	padding: 20px 20px;
+	font-size: 20px;
+	width: 920px;
+	font-size: 24px;
+	color: #6495ED;
+}
+.titulo {
+	margin-bottom: 35px;
+	font-size: 20px;
+}
+.large {
+	color:#4682B4;
+	margin-bottom: 3px;
+	font-size: 24px;
+}
+.large2 {
+	margin-top: 30px;
+	margin-bottom: 120px;
+}
+.large2 a:link, .large2 a:visited {
+	color: #708090;
+}
+.large2 a:hover {
+	color: #708090;
+	text-decoration: underline;
+}
+/*rodape*/
+
+#rodape {
+	background: #000000;
+	width: 1130px;
+	/*height: 670px;*/
+	
+}
+#titulo2 {
+	margin-left: 20px;
+}
+h3 {
+	padding-top: 60px;
+	color: #6495ED;
+	font-size: 1.6em;
+	font-weight: normal;
+
+}
+.email {
+	padding: 15px 0px; 
+	font-size: 1.2em;
+
+
+}
+.email a:link, .email a:visited {
+	color: #708090;
+}
+.email a:hover {
+	color: #708090;
+	text-decoration: underline;
+}
+.text {
+	color:#8C898C;
+	font-size: 20px;
+	width: 500px;
+	margin-top: 20px;
+	padding-bottom: 5px;
+
+}
+h4 {
+	color: #6495ED; 
+	font-weight: normal;
+	padding-top: 80px;
+	margin-left: 20px;
+	font-size: 1.4em;
+	margin-bottom: 35px;
+}
+.topico1 {
+	margin-left: 20px;
+	font-size: 20px;
+	padding: 8px 0px;
+
+}
+.topico1 a:link, .topico1 a:visited {
+	color:#8C898C;
+}
+.topico1 a:hover {
+	color:#8C898C;
+	text-decoration: underline;
+}
+#color {
+	color: #8C898C;
+	margin-left: 20px;
+	margin-bottom: 25px;
+}
+#book {
+	margin-left: 20px;
+	font-size: 20px;
+	position: relative;
+	top: -192px ;
+	right: -200px ;
+	display: inline-block;
+}
+#book a:link, #book a:visited {
+	color:#393939;
+}
+
+#book a:hover {
+	color:#393939;
+	text-decoration: underline;
+
+}
+#contato-rodape {
+	position: relative;
+	top: -363px ;
+	right: -500px;
+	display: inline-block;
+}
+
+#contato-rodape a:link, #contato-rodape a:visited {
+	font-size: 20px;
+	padding: 8px 0px;
+	color: #8C898C;
+	margin-left: 20px;
+	
+}
+#contato-rodape a:hover {
+	font-size: 20px;
+	color: #8C898C;
+	text-decoration: underline;
+	margin-left: 20px;
+
+}
+.margin {
+	margin:20px 0px;
+}
+#span {
+	color:#393939;
+	font-size: 20px;
+}
+#parte4-rodape {
+	position: relative;
+	top: -590px;
+	right: -900px;
+	display: inline-block;
+
+}
+#parte4-rodape a:link, #parte4-rodape a:visited {
+	font-size: 20px;
+	padding: 8px 0px;
+	color: #8C898C;
+	margin-left: 20px;
+}
+#parte4-rodape a:hover {
+	font-size: 20px;
+	color: #8C898C;
+	text-decoration: underline;
+	margin-left: 20px;
+}
+#direitos {
+	position: relative;
+	top: -450px;
+	right: -20px;
+	font-size: 20px;
+	color: #8C898C;
+	display: inline-block;
+	clear: both;
+
+}
+#direitos a:link, #direitos a:visited {
+	color: #8C898C;
+}
+#direitos a:hover {
+	color: #8C898C;
+	text-decoration: underline;
+}
